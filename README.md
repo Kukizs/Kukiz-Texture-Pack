@@ -1,44 +1,47 @@
-# Kukiz's Texture Pack
+# Kukiz's Tuxedo Cat Texture Pack
 
-Making a Minecraft texture pack which fits what I want. I hope that other people will enjoy this small and vanilla-friendly texture pack!
+A small resource pack inspired by me wanting my own cat in the game and giving a few Minecraft textures a new look!
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/899c74a8-6376-4bf6-9d49-7f4ffd9c9f39" width="300" height="300" alt="Screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/68ec208c-f1f0-4c86-b6be-a8bba2f74ccc" width="300" height="300" alt="Screenshot 2" />
-  <img src="https://github.com/user-attachments/assets/74a024b1-d95d-481a-b9a3-7043cda1a1ef" width="300" height="300" alt="Screenshot 3" />
-</p>
+The pack keeps the vanilla Minecraft style while replacing selected cat-related textures and the Totem of Undying with a matching black-and-white tuxedo look.
 
----
+## What it changes
 
-## 📥 Download
+### Adult Tuxedo Cat
+The vanilla black-and-white cat variant has been redesigned with a custom tuxedo-style appearance.
 
-👉 Grab the latest version here:  
-[GitHub Release v1.0](https://github.com/R6Gamer07/Kukiz-Texture-Pack/releases/tag/V1.0)  
-Download From Modrinth: [Modrinth Download](https://modrinth.com/resourcepack/kuklzs-texture-pack)
+![Adult Tuxedo Cat](https://cdn.modrinth.com/data/cached_images/ac3d106a6fd8be3d2d2287895484abbc5008a304.png)
 
 ---
 
-## 📦 Textures changed
+### Baby Tuxedo Cat
+With Minecraft 26.1 introducing separate baby cat textures, the baby tuxedo cat now has its own custom texture designed to match the adult tuxedo cat.
 
-- Cat (tuxedo)  
-- Totem Of Undying  
-
----
-
-## 🐞 Reporting Bugs
-
-Found a problem or missing texture?  
-📄 Open an [issue](https://github.com/R6Gamer07/Kukiz-Texture-Pack/issues) and include:  
-- Your **Minecraft version**  
-- Screenshots of the issue  
-- Steps to reproduce  
+![Baby Tuxedo Cat](https://cdn.modrinth.com/data/cached_images/bf44b71f4d15b6c4ae99bbb1a5473a12d12301bb.png)
 
 ---
 
-## 📜 License
+### Totem of Undying
+The Totem of Undying has been replaced with a custom tuxedo cat model and texture.
+
+![Totem of Undying](https://cdn.modrinth.com/data/cached_images/f9188933650e1e86ef3f7feba492c8c9ccd9c954.png)
+
+## Style
+
+The goal is to keep everything feeling close to vanilla Minecraft while adding a small personal touch by bringing my own cat into the game.
+
+## Download
+
+- [Download on Modrinth](https://modrinth.com/resourcepack/kuklzs-texture-pack)
+- [GitHub Releases](https://github.com/Kukizs/Kukiz-Texture-Pack/releases)
+
+## Reporting Bugs
+
+Found a problem or missing texture? [Open an issue](https://github.com/Kukizs/Kukiz-Texture-Pack/issues) and include your Minecraft version, screenshots of the issue, and steps to reproduce it.
+
+## License
 
 This texture pack is licensed under the [MIT License](LICENSE).
 
 ---
 
-💎 *Created by Kukiz*
+*Created by Kukiz*
