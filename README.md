@@ -9,7 +9,7 @@ The pack keeps the vanilla Minecraft style while replacing selected cat-related 
 ### Adult Tuxedo Cat
 The vanilla black-and-white cat variant has been redesigned with a custom tuxedo-style appearance.
 
-![Adult Tuxedo Cat](https://cdn.modrinth.com/data/cached_images/ac3d106a6fd8be3d2d2287895484abbc5008a304.png)
+![Cat](https://cdn.modrinth.com/data/cached_images/ac3d106a6fd8be3d2d2287895484abbc5008a304.png)
 
 ---
 
@@ -21,9 +21,16 @@ With Minecraft 26.1 introducing separate baby cat textures, the baby tuxedo cat 
 ---
 
 ### Totem of Undying
-The Totem of Undying has been replaced with a custom tuxedo cat model and texture.
+The Totem of Undying has been retextured into a small tuxedo cat, matching the style of the rest of the pack.
 
-![Totem of Undying](https://cdn.modrinth.com/data/cached_images/f9188933650e1e86ef3f7feba492c8c9ccd9c954.png)
+![Totem Of Undying](https://cdn.modrinth.com/data/cached_images/fa69b84901c74e3da0402aa8daeee915ca28ffa1.png)
+
+---
+
+### Cat Spawn Egg
+The Cat Spawn Egg has also been given a custom tuxedo cat-inspired texture so it fits the rest of the pack.
+
+![Cat Spawn Egg](https://cdn.modrinth.com/data/cached_images/d95b44ec1d2c592db08e815bf2aba19afdd79ef9_0.webp)
 
 ## Style
 
